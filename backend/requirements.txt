@@ -1,0 +1,19 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.7
+Flask-Security-Too==5.4.3
+Flask-SocketIO==5.3.6
+Flask-Mail==0.10.0
+Flask-CORS==4.0.1
+celery==5.4.0
+redis==5.0.7
+eventlet==0.36.1
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.31
+bcrypt==4.1.3
+# passlib with setuptools shim for Python 3.12 compatibility
+passlib==1.7.4
+setuptools>=70.0.0
+WTForms==3.1.2
+email-validator==2.1.1
